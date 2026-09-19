@@ -34,7 +34,7 @@
 </p>
 <p align="center">
   <img height="150" src="https://github-readme-stats-eight-umber-55.vercel.app/api?username=GitCaiver&show_icons=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0a0f0d&title_color=00FF9C&text_color=00FF9C&icon_color=00FF9C&ring_color=00FF9C" />
-  <img height="150" src="https://github-readme-stats-eight-umber-55.vercel.app/api/top-langs/?username=GitCaiver&layout=pie&hide_border=true&bg_color=0a0f0d&title_color=00FF9C&text_color=00FF9C" />
+  <img height="150" src="https://github-readme-stats-eight-umber-55.vercel.app/api/top-langs/?username=GitCaiver&layout=pie&count_private=true&hide_border=true&bg_color=0a0f0d&title_color=00FF9C&text_color=00FF9C" />
 </p>
 
 <p align="center">
